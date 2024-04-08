@@ -1,0 +1,44 @@
+h1 {
+    font-family:'Lucida Handwriting', cursive, sans-serif ;
+    position: relative;
+    background-color: #4682B4;
+    border-radius: 75px;
+    margin: 50px 40px;
+    padding: 60px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+h2,p,li {
+    color: rgb(112,128,144);
+    position: relative;
+    text-align: center;
+    bottom: 100px;
+} 
+
+img {
+    height: 800px;
+    Width: 100%;
+    position: relative;
+    bottom: 120px;
+}
+
+p,li {
+font-size: larger;
+}
+
+footer {
+    background-color: #4682B4;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
